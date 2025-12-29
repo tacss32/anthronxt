@@ -1,6 +1,6 @@
 export const sections = {
   about: {
-    title: "About Anthronxt",
+    title: "About Us",
     tagline: "Empowering Careers through Innovation",
     description:
       "Anthronxt is more than just a platform; it's your personal career companion. Born from the need to democratize high-level interview coaching and skill mapping.",
